@@ -1,7 +1,10 @@
 # Welcome to the Pisco de Luz Social Project page!
 
 <p>The reality of a historic Quilombola community in the region of Chapada dos Veadeiros, in Goiás, was the main driver of the project. For generations, residents of the area have had no access to electricity. Living without electricity limits their daily productivity and social interactions. It exposes them to various risks, such as animal attacks and breathing hazardous fumes from diesel oil lamps. These lamps, which they use to illuminate their homes at night, have been the cause of several household fires in which families have lost everything they had.</p>
-​
+
+<img src="https://github.com/pisco-de-luz/Social-Project/blob/6282648e4543a6c874d2b68f1cc8ab1c4c6eaf8e/images/lamparina-2.png" height="200">
+<img src="https://github.com/pisco-de-luz/Social-Project/blob/6282648e4543a6c874d2b68f1cc8ab1c4c6eaf8e/images/lamparina-sebastiao.png" height="200">
+
 <p>Confronted with this scenario, we developed a low-cost solar-powered lighting system to install in their homes. The solar kits consist of wires, LED lamps, a solar panel, and an intelligent controller. The system also allows the monitoring of energy use through an app. The goal is to give residents the autonomy to install and maintain these kits independently.</p>
 
 
