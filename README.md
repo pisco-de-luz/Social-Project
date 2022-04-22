@@ -7,6 +7,7 @@
 <p>In July of 2017, André had his first experience spending a night using only diesel oil lamps. Close to 8 o'clock in the night, he remembers that the smoke from diesel burning had already made the environment unbearable. The impression was of being in a closed garage with the car running. The next day, your nostrils dawned full of soot.</p>
 <p>Confronted with this scenario, André developed a low-cost solar-powered lighting system to install in their homes. The solar kits consist of wires, LED lamps, a solar panel, and an intelligent controller using an Arduino Nano. The system also allows the monitoring of energy use through the serial port.</p>
 
+<img src="https://github.com/pisco-de-luz/Social-Project/blob/7adf8b3d50c8d97672950180724e2c47a46d8786/images/Andre-Assembling-Pisco-Lighting-System-2017.png" height="300"> <img src="https://github.com/pisco-de-luz/Social-Project/blob/7adf8b3d50c8d97672950180724e2c47a46d8786/images/First-kit-assembled.png" height="300">
 
 Pisco de Luz assembles and installs solar-powered light kits in low-income communities with the help of volunteers.
 
