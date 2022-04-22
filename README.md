@@ -13,6 +13,13 @@
 
 <img src="https://github.com/pisco-de-luz/Social-Project/blob/c99840e8eba817e8cbf067d1a19f326e1794cfac/images/Collecting-data-from-the-Pisco-Lighting-System.png" height="300">
 
+<p>In September of 2017, after developing and assembling two kits, André returned to this community and installed them by himself in two families. In this first version of the kit, the installation process was quite demanding.</p>
+<p>The cable system was composed of a four-color alarm cable connected using jelly crimp wire connectors. André tested this approach in his house, and it works pretty well. However, when he went to install the kits in these first two houses, as they were very dark inside, it was challenging to see the colors to join them correctly.</p>
+
+<img src="https://github.com/pisco-de-luz/Social-Project/blob/db9510387bc06f73a6e9f5962beff37d9fcba867/images/One-of-the-First-Families-2017.png" height="300"> <img src="https://github.com/pisco-de-luz/Social-Project/blob/db9510387bc06f73a6e9f5962beff37d9fcba867/images/Installing-the-First-Solar-Panel-2017.png" height="300"> <img src="https://github.com/pisco-de-luz/Social-Project/blob/db9510387bc06f73a6e9f5962beff37d9fcba867/images/Installing-an-interruptor-inside.png" height="300">
+
+
+
 Pisco de Luz assembles and installs solar-powered light kits in low-income communities with the help of volunteers.
 
 # Bringing Dignity
