@@ -17,7 +17,7 @@
 
 <img src="https://github.com/pisco-de-luz/Social-Project/blob/db9510387bc06f73a6e9f5962beff37d9fcba867/images/One-of-the-First-Families-2017.png" height="300"> <img src="https://github.com/pisco-de-luz/Social-Project/blob/db9510387bc06f73a6e9f5962beff37d9fcba867/images/Installing-the-First-Solar-Panel-2017.png" height="300"> 
 
-<p>The cable system was composed of a four-color alarm cable connected using jelly crimp wire connectors. It worked well when André first tested this configuration in his at-home laboratory. However, when he went to install the kits in these first two houses, as they were very dark inside, it was challenging to see where to join them correctly.</p>
+<p>The cable system was composed of a four-color alarm cable connected using jelly crimp wire connectors. It worked well when André first tested this configuration in his at-home laboratory. However, when he went to install the kits in these first two houses, as they were very dark inside, it was pretty challenging to join them correctly.</p>
 
 
 <img src="https://github.com/pisco-de-luz/Social-Project/blob/eef51eb9e24667499efe685995d8b2c24925a439/images/emenda-linear-p-tel-com-gel.jpg" height="300"> <img src="https://github.com/pisco-de-luz/Social-Project/blob/db9510387bc06f73a6e9f5962beff37d9fcba867/images/Installing-an-interruptor-inside.png" height="300">
