@@ -4,7 +4,7 @@
 
 <img src="https://github.com/pisco-de-luz/Social-Project/blob/6282648e4543a6c874d2b68f1cc8ab1c4c6eaf8e/images/lamparina-2.png" height="300"> <img src="https://github.com/pisco-de-luz/Social-Project/blob/6282648e4543a6c874d2b68f1cc8ab1c4c6eaf8e/images/lamparina-sebastiao.png" height="300">
 
-<p>In July 2017, André had his first experience spending the night in the community,  using only diesel oil lamps. Only two hours after sunset, diesel-burning smoke had already made the environment unbearable. It felt like being trapped in a garage with cars running. The worst is that his nostrils were full of soot the next day.</p>
+<p>In July 2017, André had his first experience spending the night in the community,  using only diesel oil lamps. Diesel-burning smoke had already made the environment unbearable only two hours after sunset. It felt like being trapped in a garage with cars running. The worst is that his nostrils were full of soot the next day.</p>
 <p>Shocked at the severity of the situation and determined to change it, André developed a low-cost solar-powered lighting system to provide sustainable and no-cost light in people’s homes. The solar kits consist of wires, LED lamps, a solar panel, and an intelligent controller using an Arduino Nano.</p>
 
 <img src="https://github.com/pisco-de-luz/Social-Project/blob/7adf8b3d50c8d97672950180724e2c47a46d8786/images/Andre-Assembling-Pisco-Lighting-System-2017.png" height="300"> <img src="https://github.com/pisco-de-luz/Social-Project/blob/7adf8b3d50c8d97672950180724e2c47a46d8786/images/First-kit-assembled.png" height="300">
