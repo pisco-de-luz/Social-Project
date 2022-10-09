@@ -34,6 +34,8 @@ We transform the lives of families who still live without access to electricity.
 
 We install a small solar panel on the roof, an intelligent circuit, a battery, various lights, and light switches throughout the homes.
 
-
+<p aligh="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_bkagOKqep4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
 
 Same kitchen before and after Pisco de Luz's solar kit installation:
