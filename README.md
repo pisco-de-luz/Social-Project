@@ -34,6 +34,10 @@ We transform the lives of families who still live without access to electricity.
 
 We install a small solar panel on the roof, an intelligent circuit, a battery, various lights, and light switches throughout the homes.
 
+
+https://user-images.githubusercontent.com/46757321/194868063-f188dee3-fed2-4298-a57a-0f44b3fbe241.mp4
+
+
 <p aligh="center">
 
 
