@@ -15,11 +15,11 @@
 
 <p>The intelligent system monitors many variables, such as the usage hours of illumination, the amount of solar radiation, the minimum and maximum voltage of the battery, etc., delivered through the serial RS232 port.</p>
 
-<img src="https://github.com/pisco-de-luz/Social-Project/blob/c99840e8eba817e8cbf067d1a19f326e1794cfac/images/Collecting-data-from-the-Pisco-Lighting-System.png" height="300">
+<img src="https://github.com/pisco-de-luz/Social-Project/blob/4311c8676f620b2a2a02716242866ea852a6016f/images/serial-stats.gif" height="300">
 
 <p>In September 2017, after developing and assembling two kits, André returned to this community and installed them in two families. Since it was the first version of the kit, the installation process was quite demanding.</p>
 
-<img src="https://github.com/pisco-de-luz/Social-Project/blob/db9510387bc06f73a6e9f5962beff37d9fcba867/images/One-of-the-First-Families-2017.png" height="300"> <img src="https://github.com/pisco-de-luz/Social-Project/blob/db9510387bc06f73a6e9f5962beff37d9fcba867/images/Installing-the-First-Solar-Panel-2017.png" height="300"> 
+<img src="https://github.com/pisco-de-luz/Social-Project/blob/db9510387bc06f73a6e9f5962beff37d9fcba867/images/One-of-the-First-Families-2017.png" height="300"> <img src="https://github.com/pisco-de-luz/Social-Project/blob/4311c8676f620b2a2a02716242866ea852a6016f/images/installing-solar-panel.gif" height="300"> 
 
 <p>The cable system was composed of a four-color alarm cable connected using jelly crimp wire connectors. It worked well when André first tested this configuration in his at-home laboratory. However, when he went to install the kits in these first two houses, as they were very dark inside, it was pretty challenging to join them correctly.</p>
 
