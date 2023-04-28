@@ -32,11 +32,8 @@ Finally, a serial port has been added to collect statistics and perform small ca
 ## August 2017
 <p>André installed this first prototype in his house and when he saw that it worked perfectly, he developed the first single layer PCB and assembled 2 kits.</p>
 
+<img src="https://github.com/pisco-de-luz/Social-Project/blob/5c7c3202c918364820f4bec22f35ecf3bc694c7b/images/PrimeiroPCB-inferior.jpg" height="300"> <img src="https://github.com/pisco-de-luz/Social-Project/blob/a0106765ae4076a884547a947dc6ff1b4292a2b5/images/First-PCB-Assembled.jpg" height="300"> 
 <img src="https://github.com/pisco-de-luz/Social-Project/blob/3e8f8db801335711d6fdd490361ff9fb513b8117/images/Andre-assembling-first-kit.gif" height="300">
-
-<p>The intelligent system monitors many variables, such as the usage hours of illumination, the amount of solar radiation, the minimum and maximum voltage of the battery, etc., delivered through the serial RS232 port.</p>
-
-<img src="https://github.com/pisco-de-luz/Social-Project/blob/4311c8676f620b2a2a02716242866ea852a6016f/images/serial-stats.gif" height="300">
 
 ## September 2017
 <p>In September 2017, after developing and assembling two kits, André returned to this community and installed them in two families. Since it was the first version of the kit, the installation process was quite demanding.</p>
@@ -49,8 +46,12 @@ Finally, a serial port has been added to collect statistics and perform small ca
 <img src="https://github.com/pisco-de-luz/Social-Project/blob/eef51eb9e24667499efe685995d8b2c24925a439/images/emenda-linear-p-tel-com-gel.jpg" height="300"> <img src="https://github.com/pisco-de-luz/Social-Project/blob/db9510387bc06f73a6e9f5962beff37d9fcba867/images/Installing-an-interruptor-inside.png" height="300">
 
 
+## October 2017
+<p>Pisco de Luz assembles and installs solar-powered light kits in low-income communities with the help of volunteers.</p>
 
-Pisco de Luz assembles and installs solar-powered light kits in low-income communities with the help of volunteers.
+<p>The intelligent system monitors many variables, such as the usage hours of illumination, the amount of solar radiation, the minimum and maximum voltage of the battery, etc., delivered through the serial RS232 port.</p>
+
+<img src="https://github.com/pisco-de-luz/Social-Project/blob/4311c8676f620b2a2a02716242866ea852a6016f/images/serial-stats.gif" height="300">
 
 # Bringing Dignity
 
