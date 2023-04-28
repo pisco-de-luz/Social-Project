@@ -71,6 +71,10 @@ The intelligent system monitors many variables, such as the usage hours of illum
 
 <img src="https://github.com/pisco-de-luz/Social-Project/blob/4311c8676f620b2a2a02716242866ea852a6016f/images/serial-stats.gif" height="300">
 
+<p>Everything worked perfectly and even though it was the rainy season, the kit was able to light the houses every night. 
+
+The kit has an adaptive system that reduces or increases the intensity of the lighting according to the amount of energy in the battery.</p>
+
 # Bringing Dignity
 
 We transform the lives of families who still live without access to electricity. 
