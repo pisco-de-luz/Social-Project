@@ -43,8 +43,16 @@ Finally, a serial port has been added to collect statistics and perform small ca
 <p>The cable system was composed of a four-color alarm cable connected using jelly crimp wire connectors. It worked well when André first tested this configuration in his at-home laboratory. However, when he went to install the kits in these first two houses, as they were very dark inside, it was pretty challenging to join them correctly.</p>
 
 
-<img src="https://github.com/pisco-de-luz/Social-Project/blob/eef51eb9e24667499efe685995d8b2c24925a439/images/emenda-linear-p-tel-com-gel.jpg" height="300"> <img src="https://github.com/pisco-de-luz/Social-Project/blob/db9510387bc06f73a6e9f5962beff37d9fcba867/images/Installing-an-interruptor-inside.png" height="300">
+<img src="https://github.com/pisco-de-luz/Social-Project/blob/db9510387bc06f73a6e9f5962beff37d9fcba867/images/Installing-an-interruptor-inside.png" height="300"> <img src="https://github.com/pisco-de-luz/Social-Project/blob/eef51eb9e24667499efe685995d8b2c24925a439/images/emenda-linear-p-tel-com-gel.jpg" height="300">
 
+<p>The first LED switches and modules were very rudimentary and homemade.</p>
+
+<img src="https://github.com/pisco-de-luz/Social-Project/blob/ea7a84d063df0c2fbbd68a75a4710d88a5785165/images/led-lights-first-version.gif" height="250"> <img src="https://github.com/pisco-de-luz/Social-Project/blob/ea7a84d063df0c2fbbd68a75a4710d88a5785165/images/switch-first-version.gif" height="250">
+
+<p>Below is the first dinner with the family using only the lighting from the kit.</p>
+<img src="https://github.com/pisco-de-luz/Social-Project/blob/ea7a84d063df0c2fbbd68a75a4710d88a5785165/images/Waldy-family-first-dinner.gif" height="300">
+
+<p>To keep the cost of the solution as low as possible, the goal was not to try to bring the same quality of lighting that we have in our homes. An oil lamp provides about 15 lumens and this solution provides about 100 lumens. For them, this is many times better and without the toxic smoke produced by oil lamps. But when we compare it to the lighting we have in our homes, >2000 lumens, it seems much inferior.</p>
 
 ## October 2017
 <p>Pisco de Luz assembles and installs solar-powered light kits in low-income communities with the help of volunteers.</p>
