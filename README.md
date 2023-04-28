@@ -30,7 +30,7 @@ Each room can have one or more switches and all of them have a small LED to make
 Finally, a serial port has been added to collect statistics and perform small calibrations when necessary.</p> 
 
 ## August 2017
-<p>André installed this first prototype in his house and when he saw that it worked perfectly, he developed the first single sided PCB and assembled 2 kits.</p>
+<p>André installed this first prototype in his house and when he saw that it worked quite well, he developed the first single sided PCB and assembled 2 kits.</p>
 
 <img src="https://github.com/pisco-de-luz/Social-Project/blob/5c7c3202c918364820f4bec22f35ecf3bc694c7b/images/PrimeiroPCB-inferior.jpg" height="200"> <img src="https://github.com/pisco-de-luz/Social-Project/blob/a0106765ae4076a884547a947dc6ff1b4292a2b5/images/First-PCB-Assembled.jpg" height="200"> 
 <img src="https://github.com/pisco-de-luz/Social-Project/blob/3e8f8db801335711d6fdd490361ff9fb513b8117/images/Andre-assembling-first-kit.gif" height="250">
@@ -53,6 +53,8 @@ Finally, a serial port has been added to collect statistics and perform small ca
 
 As night fell, the homeowners, Waldy and Mira, could not believe they finally had light in their home.<br>With tears in her eyes, Mira said, "André, you have fulfilled my life's dream". 
 
+After this moment, seeing the transformation that this simple kit made in their lives, André realized that he could not stop this project. 
+
 It is priceless to see their happiness as they sit down to dinner for the first time without oil lamps.</p>
 <img src="https://github.com/pisco-de-luz/Social-Project/blob/ea7a84d063df0c2fbbd68a75a4710d88a5785165/images/Waldy-family-first-dinner.gif" height="300">
 
@@ -71,7 +73,7 @@ The intelligent system monitors many variables, such as the usage hours of illum
 
 <img src="https://github.com/pisco-de-luz/Social-Project/blob/4311c8676f620b2a2a02716242866ea852a6016f/images/serial-stats.gif" height="300">
 
-<p>Everything worked perfectly and even though it was the rainy season, the kit was able to light the houses every night. 
+<p>Everything worked as planned and even though it was the rainy season, the kit was able to light the houses every night. 
 
 The kit has an adaptive system that reduces or increases the intensity of the lighting according to the amount of energy in the battery.</p>
 
