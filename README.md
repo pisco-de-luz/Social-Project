@@ -9,9 +9,22 @@
 <img src="https://github.com/pisco-de-luz/Social-Project/blob/3e8f8db801335711d6fdd490361ff9fb513b8117/images/triple-oil-lamp.gif" height="300"> <img src="https://github.com/pisco-de-luz/Social-Project/blob/6282648e4543a6c874d2b68f1cc8ab1c4c6eaf8e/images/lamparina-sebastiao.png" height="300">
 
 <p>In July 2017, André had his first experience spending the night in the community,  using only diesel oil lamps. Diesel-burning smoke had already made the environment unbearable only two hours after sunset. It felt like being trapped in a garage with cars running. The worst is that his nostrils were full of soot the next day.</p>
-<p>Shocked at the severity of the situation and determined to change it, André developed a low-cost solar-powered lighting system to provide sustainable and no-cost light in people’s homes. The solar kits consist of wires, LED lamps, a solar panel, and an intelligent controller using an Arduino Nano.</p>
+<p>Shocked by the severity of the situation and determined to change it, André developed a low-cost solar-powered lighting system to provide sustainable and free light in people's homes. The first prototype was made on a prototype board, and once the circuit was stabilized, he implemented the first version on a universal board. </p>
 
-<img src="https://github.com/pisco-de-luz/Social-Project/blob/3e8f8db801335711d6fdd490361ff9fb513b8117/images/Andre-assembling-first-kit.gif" height="300"> <img src="https://github.com/pisco-de-luz/Social-Project/blob/7adf8b3d50c8d97672950180724e2c47a46d8786/images/First-kit-assembled.png" height="300">
+<img src="https://github.com/pisco-de-luz/Social-Project/blob/7adf8b3d50c8d97672950180724e2c47a46d8786/images/First-kit-assembled.png" height="300">
+
+<p>
+Internally, the circuit consists of a buck converter that, when activated by the firmware, stabilizes the voltage of the solar panel at 5 volts. The internal ADC is used to measure the voltage from the solar panel both when the bulk converter is activated and when it is not.
+
+The output of the bulk converter feeds the battery charger circuit, whose charging current is linearly controlled by the Arduino. An MPPT algorithm has been implemented to constantly analyze the relationship between the voltage delivered by the solar panel and the battery charging current.
+
+The firmware also controls the charging and discharging of the battery, ensuring that the battery is not charged above 4.1 volts and disabling the boost converter and USB charger if the battery falls below 3.7 volts. Ensuring that the battery operates within this range significantly increases battery life. </p>
+
+<img src="https://github.com/pisco-de-luz/Social-Project/blob/54976f91e0ab782d7e09ea7e6a8445cef78fc091/images/Electronic-Diagram.png" heights="300">
+
+<p> The solar kits consist of wires, LED lamps, a solar panel, and an intelligent controller using an Arduino Nano.</p>
+
+<img src="https://github.com/pisco-de-luz/Social-Project/blob/3e8f8db801335711d6fdd490361ff9fb513b8117/images/Andre-assembling-first-kit.gif" height="300">
 
 <p>The intelligent system monitors many variables, such as the usage hours of illumination, the amount of solar radiation, the minimum and maximum voltage of the battery, etc., delivered through the serial RS232 port.</p>
 
