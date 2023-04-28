@@ -1,10 +1,10 @@
 # Welcome to the Pisco de Luz Social Project page!
 
-<p>Imagine total darkness. Most of us can’t. We have lived in a world where power runs through everything - our devices, homes, and lives. However, for generations, residents of the Quilombola community in the region of Chapada dos Veadeiros had no access to electricity, condemning them to live in debilitating darkness every night. Living without power severely limits their productivity as well as social interactions.</p> 
+<p>Imagine total darkness. Most of us can’t. We have lived in a world where power runs through everything - our devices, homes, and lives. However, for generations, residents of a Quilombola community in the region of Chapada dos Veadeiros had no access to electricity, condemning them to live in debilitating darkness every night. Living without power severely limits their productivity as well as social interactions.</p> 
 
 <img src="https://github.com/pisco-de-luz/Social-Project/blob/3e8f8db801335711d6fdd490361ff9fb513b8117/images/Waking-with-oil-lamp2.gif" height="300"> <img src="https://github.com/pisco-de-luz/Social-Project/blob/6282648e4543a6c874d2b68f1cc8ab1c4c6eaf8e/images/lamparina-2.png" height="300">
 
-<p>It also exposes them to life-threatening risks, such as animal attacks and hazardous fumes from diesel oil lamps. These lamps, which they use to illuminate their homes at night, have caused several housefires in which families have lost everything they had. This grim reality of the residents’ lives led to the creation of Pisco de Luz, with one purpose - to provide a little light in the darkness.</p>
+<p>It also exposes them to life-threatening risks, such as animal attacks and hazardous fumes from diesel oil lamps. These lamps, which they use to illuminate their homes at night, have caused several housefires in which families have lost everything they had. This grim reality led to the creation of Pisco de Luz, with the sole purpose of bringing a little light into the darkness.</p>
 
 <img src="https://github.com/pisco-de-luz/Social-Project/blob/3e8f8db801335711d6fdd490361ff9fb513b8117/images/triple-oil-lamp.gif" height="300"> <img src="https://github.com/pisco-de-luz/Social-Project/blob/6282648e4543a6c874d2b68f1cc8ab1c4c6eaf8e/images/lamparina-sebastiao.png" height="300">
 
