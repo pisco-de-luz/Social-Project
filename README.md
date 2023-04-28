@@ -32,13 +32,13 @@ Finally, a serial port has been added to collect statistics and perform small ca
 ## August 2017
 <p>André installed this first prototype in his house and when he saw that it worked perfectly, he developed the first single layer PCB and assembled 2 kits.</p>
 
-<img src="https://github.com/pisco-de-luz/Social-Project/blob/5c7c3202c918364820f4bec22f35ecf3bc694c7b/images/PrimeiroPCB-inferior.jpg" height="300"> <img src="https://github.com/pisco-de-luz/Social-Project/blob/a0106765ae4076a884547a947dc6ff1b4292a2b5/images/First-PCB-Assembled.jpg" height="300"> 
-<img src="https://github.com/pisco-de-luz/Social-Project/blob/3e8f8db801335711d6fdd490361ff9fb513b8117/images/Andre-assembling-first-kit.gif" height="300">
+<img src="https://github.com/pisco-de-luz/Social-Project/blob/5c7c3202c918364820f4bec22f35ecf3bc694c7b/images/PrimeiroPCB-inferior.jpg" height="200"> <img src="https://github.com/pisco-de-luz/Social-Project/blob/a0106765ae4076a884547a947dc6ff1b4292a2b5/images/First-PCB-Assembled.jpg" height="200"> 
+<img src="https://github.com/pisco-de-luz/Social-Project/blob/3e8f8db801335711d6fdd490361ff9fb513b8117/images/Andre-assembling-first-kit.gif" height="250">
 
 ## September 2017
 <p>In September 2017, after developing and assembling two kits, André returned to this community and installed them in two families. Since it was the first version of the kit, the installation process was quite demanding.</p>
 
-<img src="https://github.com/pisco-de-luz/Social-Project/blob/db9510387bc06f73a6e9f5962beff37d9fcba867/images/One-of-the-First-Families-2017.png" height="300"> <img src="https://github.com/pisco-de-luz/Social-Project/blob/4311c8676f620b2a2a02716242866ea852a6016f/images/installing-solar-panel.gif" height="300"> 
+<img src="https://github.com/pisco-de-luz/Social-Project/blob/db9510387bc06f73a6e9f5962beff37d9fcba867/images/One-of-the-First-Families-2017.png" height="250"> <img src="https://github.com/pisco-de-luz/Social-Project/blob/4311c8676f620b2a2a02716242866ea852a6016f/images/installing-solar-panel.gif" height="250"> 
 
 <p>The cable system was composed of a four-color alarm cable connected using jelly crimp wire connectors. It worked well when André first tested this configuration in his at-home laboratory. However, when he went to install the kits in these first two houses, as they were very dark inside, it was pretty challenging to join them correctly.</p>
 
