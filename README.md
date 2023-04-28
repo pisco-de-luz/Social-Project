@@ -47,7 +47,7 @@ Finally, a serial port has been added to collect statistics and perform small ca
 
 <p>The first LED switches and modules were very rudimentary and homemade.</p>
 
-<img src="https://github.com/pisco-de-luz/Social-Project/blob/ea7a84d063df0c2fbbd68a75a4710d88a5785165/images/led-lights-first-version.gif" height="250"> <img src="https://github.com/pisco-de-luz/Social-Project/blob/ea7a84d063df0c2fbbd68a75a4710d88a5785165/images/switch-first-version.gif" height="250">
+<img src="https://github.com/pisco-de-luz/Social-Project/blob/ea7a84d063df0c2fbbd68a75a4710d88a5785165/images/led-lights-first-version.gif" height="200"> <img src="https://github.com/pisco-de-luz/Social-Project/blob/ea7a84d063df0c2fbbd68a75a4710d88a5785165/images/switch-first-version.gif" height="200">
 
 <p>Below is the first dinner with the family using only the lighting from the kit.</p>
 <img src="https://github.com/pisco-de-luz/Social-Project/blob/ea7a84d063df0c2fbbd68a75a4710d88a5785165/images/Waldy-family-first-dinner.gif" height="300">
