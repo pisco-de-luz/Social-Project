@@ -62,7 +62,8 @@ It is priceless to see their happiness as they sit down to dinner for the first 
 <p>The journey there is not easy, about 300 km of paved road and 100 km of adventure. The only way to get there is with a 4x4 vehicle adapted for river crossings and a lot of courage. 
 
 It is common during the rainy season from October to March that the rivers fill up and we have to camp on the road.</p>
-<img src="https://github.com/pisco-de-luz/Social-Project/blob/093caade2fa1f7299293a69cca3bebeabbb9ed6f/images/river-crossing.gif" height="200"> <img src="https://github.com/pisco-de-luz/Social-Project/blob/093caade2fa1f7299293a69cca3bebeabbb9ed6f/images/bridge-crossing.gif" height="200">
+
+<img src="https://github.com/pisco-de-luz/Social-Project/blob/093caade2fa1f7299293a69cca3bebeabbb9ed6f/images/river-crossing.gif" height="220"> <img src="https://github.com/pisco-de-luz/Social-Project/blob/093caade2fa1f7299293a69cca3bebeabbb9ed6f/images/bridge-crossing.gif" height="220">
 
 <p>A month later, André returned to the community to see if the system was working normally. 
 
