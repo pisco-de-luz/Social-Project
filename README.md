@@ -49,13 +49,21 @@ Finally, a serial port has been added to collect statistics and perform small ca
 
 <img src="https://github.com/pisco-de-luz/Social-Project/blob/ea7a84d063df0c2fbbd68a75a4710d88a5785165/images/led-lights-first-version.gif" height="200"> <img src="https://github.com/pisco-de-luz/Social-Project/blob/ea7a84d063df0c2fbbd68a75a4710d88a5785165/images/switch-first-version.gif" height="200">
 
-<p>Below is the first dinner with the family using only the lighting from the kit.</p>
+<p>After installing the solar panel, LED modules and switches in all the rooms, André went for a delicious swim in the river near the house. 
+
+As night fell, the homeowners, Waldy and Mira, could not believe they finally had light in their home.<br>With tears in her eyes, Mira said, "André, you have fulfilled my life's dream". 
+
+It is priceless to see their happiness as they sit down to dinner for the first time without oil lamps.</p>
 <img src="https://github.com/pisco-de-luz/Social-Project/blob/ea7a84d063df0c2fbbd68a75a4710d88a5785165/images/Waldy-family-first-dinner.gif" height="300">
 
 <p>To keep the cost of the solution as low as possible, the goal was not to try to bring the same quality of lighting that we have in our homes. An oil lamp provides about 15 lumens and this solution provides about 100 lumens. For them, this is many times better and without the toxic smoke produced by oil lamps. But when we compare it to the lighting we have in our homes, >2000 lumens, it seems much inferior.</p>
 
 ## October 2017
-<p>Pisco de Luz assembles and installs solar-powered light kits in low-income communities with the help of volunteers.</p>
+<p>A month later, André returned to the community to see if the system was working normally. 
+
+The journey there is not easy, about 300 km of paved road and 100 km of adventure. The only way to get there is with a 4x4 vehicle adapted for river crossings and a lot of courage. 
+
+It is common during the rainy season from October to March that the rivers fill up and we have to camp on the road.</p>
 
 <p>The intelligent system monitors many variables, such as the usage hours of illumination, the amount of solar radiation, the minimum and maximum voltage of the battery, etc., delivered through the serial RS232 port.</p>
 
