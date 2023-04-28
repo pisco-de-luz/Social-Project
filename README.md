@@ -59,13 +59,14 @@ It is priceless to see their happiness as they sit down to dinner for the first 
 <p>To keep the cost of the solution as low as possible, the goal was not to try to bring the same quality of lighting that we have in our homes. An oil lamp provides about 15 lumens and this solution provides about 100 lumens. For them, this is many times better and without the toxic smoke produced by oil lamps. But when we compare it to the lighting we have in our homes, >2000 lumens, it seems much inferior.</p>
 
 ## October 2017
-<p>A month later, André returned to the community to see if the system was working normally. 
-
-The journey there is not easy, about 300 km of paved road and 100 km of adventure. The only way to get there is with a 4x4 vehicle adapted for river crossings and a lot of courage. 
+<p>The journey there is not easy, about 300 km of paved road and 100 km of adventure. The only way to get there is with a 4x4 vehicle adapted for river crossings and a lot of courage. 
 
 It is common during the rainy season from October to March that the rivers fill up and we have to camp on the road.</p>
+<img src="https://github.com/pisco-de-luz/Social-Project/blob/093caade2fa1f7299293a69cca3bebeabbb9ed6f/images/river-crossing.gif" height="220"> <img src="https://github.com/pisco-de-luz/Social-Project/blob/093caade2fa1f7299293a69cca3bebeabbb9ed6f/images/bridge-crossing.gif" height="220">
 
-<p>The intelligent system monitors many variables, such as the usage hours of illumination, the amount of solar radiation, the minimum and maximum voltage of the battery, etc., delivered through the serial RS232 port.</p>
+<p>A month later, André returned to the community to see if the system was working normally. 
+
+The intelligent system monitors many variables, such as the usage hours of illumination, the amount of solar radiation, the minimum and maximum voltage of the battery, etc., delivered through the serial RS232 port.</p>
 
 <img src="https://github.com/pisco-de-luz/Social-Project/blob/4311c8676f620b2a2a02716242866ea852a6016f/images/serial-stats.gif" height="300">
 
