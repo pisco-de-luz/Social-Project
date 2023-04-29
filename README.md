@@ -40,8 +40,7 @@
 It is priceless to see their happiness as they sit down to dinner for the first time without oil lamps.</p>
 <img src="https://github.com/pisco-de-luz/Social-Project/blob/ea7a84d063df0c2fbbd68a75a4710d88a5785165/images/Waldy-family-first-dinner.gif" height="300">
 
-<p>To keep the cost of the solution as low as possible, the goal was not to try to bring the same quality of lighting that we have in our homes. An oil lamp provides about 15 lumens and this solution provides about 100 lumens. For them, this is many times better and without the toxic smoke produced by oil lamps. But when we compare it to the lighting we have in our homes, >2000 lumens, it seems much inferior.</p>
-
+<p>
 As night fell, the homeowners, Waldy and Mira, could not believe they finally had light in their home.<br>With tears in her eyes, Mira said, "André, you have fulfilled my life's dream". 
 
 After this moment, seeing the transformation that this simple kit made in their lives, André realized that he could not stop this project. 
@@ -65,6 +64,15 @@ Dozens of neighbors also wanted a kit, and André realized it would take years t
 
 ### November and December of 2017
 
+<p>
+With the photos and recordings from the October visit, André received support from some of his closest friends. In November and December, he managed to assemble more kits and returned to the community, now supported by friends, to help more families.</p>
+
+<img src="https://github.com/pisco-de-luz/Social-Project/blob/8f1e035834c77b018c50b4b3732753f1aed8d8a0/images/Julio-crossing-river.gif" height="250">
+
+<p>Approximately 1/6 of the world's population does not have access to electricity, and in Brazil alone there are more than 1 million families in this situation. 
+
+To keep the cost of the solution as low as possible, the goal was not to try to bring the same quality of light that we have in our homes. An oil lamp provides about 15 lumens and this solution provides about 100 lumens. For them, this is many times better and without the toxic smoke produced by oil lamps. But when we compare it to the lighting we have in our homes, >2000 lumens, it seems much inferior.
+</p>
 
 
 https://user-images.githubusercontent.com/46757321/194868063-f188dee3-fed2-4298-a57a-0f44b3fbe241.mp4
