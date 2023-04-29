@@ -1,5 +1,7 @@
 # Technical Details 
 
+## Electronic Diagram
+
 <p>In this section we will have a look at the internal workings of this solution.
   
 Internally, the circuit consists of a buck converter that, when activated by the firmware, stabilizes the voltage of the solar panel at 5 volts. The internal ADC is used to measure the voltage from the solar panel both when the bulk converter is activated and when it is not.
@@ -15,3 +17,13 @@ The firmware also controls the charging and discharging of the battery, ensuring
 Each room can have one or more switches and all of them have a small LED to make it easier to locate them when the room is completely dark. There is also a USB charger circuit that is only activated during the day when there is plenty of sun and the battery is fully charged. 
 
 Finally, a serial port has been added to collect statistics and perform small calibrations when necessary.</p> 
+
+## Automatic power management mode.
+
+<p>How can such a small battery light an entire house for several nights, even in the rainy season. 
+
+The kit has an adaptive system that reduces or increases the intensity of the lighting according to the amount of energy in the battery.</p>
+
+<img src="https://github.com/pisco-de-luz/Social-Project/blob/82df39c05221619d0ad39d98dbe062227e2facce/images/Progressive-Energy-Saving-System.png" width="750">
+
+<img src="https://github.com/pisco-de-luz/Social-Project/blob/82df39c05221619d0ad39d98dbe062227e2facce/images/Turning-on-any-Light.png" width="600">
