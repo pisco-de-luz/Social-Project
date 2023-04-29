@@ -71,9 +71,20 @@ With the photos and recordings from the October visit, André received support f
 
 <p>Approximately 1/6 of the world's population does not have access to electricity, and in Brazil alone there are more than 1 million families in this situation. 
 
+<img src="https://github.com/pisco-de-luz/Social-Project/blob/5b1848e02f1b86d2cb9416819d78b63db0e4a233/images/Andre-Antonia-house.jpg" height="250"> <img src="https://github.com/pisco-de-luz/Social-Project/blob/5b1848e02f1b86d2cb9416819d78b63db0e4a233/images/Andre-Domingos-house.jpg" height="250">
+
 To keep the cost of the solution as low as possible, the goal was not to try to bring the same quality of light that we have in our homes. An oil lamp provides about 15 lumens and this solution provides about 100 lumens. For them, this is many times better and without the toxic smoke produced by oil lamps. But when we compare it to the lighting we have in our homes, >2000 lumens, it seems much inferior.
 </p>
 
+### January 2018
+
+<p>In January, a national TV station contacted us. They wanted to do a story about the project.  Together with some of our friends we decided to give the project the name "Pisco de Luz". Until then, it was affectionately known in the community as André's Little Light. 
+
+One friend designed the logo, another made t-shirts for us to wear during filming. Everyone helped in any way they could. 
+
+Later that month, we were back in the community with a group of journalists and another set of equipment, this time with a professional video camera. 
+
+Here is the video which was produced and shown on national television. </p>
 
 https://user-images.githubusercontent.com/46757321/194868063-f188dee3-fed2-4298-a57a-0f44b3fbe241.mp4
 
