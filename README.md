@@ -38,7 +38,7 @@
 <p>After installing the solar panel, LED modules and switches in all the rooms, André went for a delicious swim in the river near the house. 
 
 It is priceless to see their happiness as they sit down to dinner for the first time without oil lamps.</p>
-<img src="https://github.com/pisco-de-luz/Social-Project/blob/ea7a84d063df0c2fbbd68a75a4710d88a5785165/images/Waldy-family-first-dinner.gif" height="300"> <img src="https://github.com/pisco-de-luz/Social-Project/blob/6189170fa9178df96859a3791b44a2d948fde8fb/images/Waldy-Dinner.gif" height="300">
+<img src="https://github.com/pisco-de-luz/Social-Project/blob/6189170fa9178df96859a3791b44a2d948fde8fb/images/Waldy-Dinner.gif" height="300">
 
 <p>
 As night fell, the homeowners, Waldy and Mira, could not believe they finally had light in their home.<br>With tears in her eyes, Mira said, "André, you have fulfilled my life's dream". 
