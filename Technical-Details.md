@@ -22,8 +22,25 @@ Finally, a serial port has been added to collect statistics and perform small ca
 
 <p>How can such a small battery light an entire house for several nights, even in the rainy season. 
 
-The kit has an adaptive system that reduces or increases the intensity of the lighting according to the amount of energy in the battery.</p>
+The kit has an adaptive system that reduces or increases the intensity of the lighting according to the amount of energy in the battery.
 
+As you can see in the diagram below, on the left side there is an image of the battery showing the actual battery levels from 0% - 100%. In the middle of the diagram, there are colored bands (level 7 - 0) showing that our device is only using the 25% - 90% range of the total battery charge. The graph in blue shows the charge and discharge curve of the battery. Just 3 hours of strong sunlight is enough to fully charge the battery.
+
+The system uses just this range (25% - 90%) because Li-ion batteries have a useful life of about
+approximately 500 charge and discharge cycles when fully charged and fully discharged. However, if they are partially charged (<90%) and partially discharged (>30%), they can reach more than 5000 cycles. Taking advantage of this feature, our device has an intelligent system that protects the battery so that it is neither fully charged nor fully discharged.
+  
+</p>
 <img src="https://github.com/pisco-de-luz/Social-Project/blob/82df39c05221619d0ad39d98dbe062227e2facce/images/Progressive-Energy-Saving-System.png" width="750">
+
+
+### How does it work?
+
+<p> During the night, the discharge process is not linear, i.e. on the first night, there are few restrictions on the use of the lights, allowing a more accentuated discharge and bringing greater lighting comfort to families. If on the following day there is enough sunshine to charge the battery to the maximum level (level 7), the process will be repeated on the following night. However, if it is a very rainy period and the battery cannot be fully charged, the lighting restrictions will be more intense, forcing a greater saving of the battery.
+
+This restriction process is shown on the right side of the diagram, in the blue box.
+
+For each level indicated in the middle (level 7 - 0), there is a group of lamps signaling the restrictions in the rightmost frame. For example, when the battery level is 7, all 7 rooms can be lit at the same time, but only 3 rooms can use the maximum brightness (7), and the other rooms can only use the brightness (5). As the battery level decreases, these restrictions are adjusted. For example, when the battery reaches level 3, only one room can use brightness (6) and only 5 other rooms can use brightness (3).  This progressive system of restrictions minimizes battery depletion and ensures several nights of basic lighting. Even on rainy and cloudy days, the battery is partially charged and a family would hardly be left completely in the dark.
+  
+</p>
 
 <img src="https://github.com/pisco-de-luz/Social-Project/blob/82df39c05221619d0ad39d98dbe062227e2facce/images/Turning-on-any-Light.png" width="600">
