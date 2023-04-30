@@ -90,9 +90,13 @@ https://user-images.githubusercontent.com/46757321/194868063-f188dee3-fed2-4298-
 
 ## Progress since 2018
 
+* Hundreds of families in several Brazilian states, including the Amazon, no longer use oil lamps as their main source of light. 
+* We are now an officially registered NGO in Brazil, composed of a Board of Directors, an Executive Board, a Fiscal Council and a Financial Council. 
+* We receive regular donations from people all over the world, and 100% of the money we receive goes to help these communities. [Join us and help](https://www.paypal.com/donate/?hosted_button_id=MTKAF33KCE2JS) light up the lives of more families.  
+* Several [national and international companies](Partners.md) are supporting us with donations, products and free services. If you or your company would like to help as well, please [get in touch with us](https://www.piscodeluz.org/?lang=en).
+* Now the kit is partially industrialized, making it much easier to replicate the solution in other communities. Please [contact us](https://www.piscodeluz.org/?lang=en) if you would like to bring this benefit to other communities around the world. 
+
 
 <p aligh="center">
-
-
 </p>
 
