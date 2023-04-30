@@ -74,6 +74,8 @@ With the photos and recordings from the October visit, André received support f
 <img src="https://github.com/pisco-de-luz/Social-Project/blob/5b1848e02f1b86d2cb9416819d78b63db0e4a233/images/Andre-Antonia-house.jpg" height="250"> <img src="https://github.com/pisco-de-luz/Social-Project/blob/5b1848e02f1b86d2cb9416819d78b63db0e4a233/images/Andre-Domingos-house.jpg" height="250">
 
 To keep the cost of the solution as low as possible, the goal was not to try to bring the same quality of light that we have in our homes. An oil lamp provides about 15 lumens and this solution provides about 100 lumens. For them, this is many times better and without the toxic smoke produced by oil lamps. But when we compare it to the lighting we have in our homes, >2000 lumens, it seems much inferior.
+
+If you are a technical person and want to know more details about how this system works internally, [click here](Technical-Details.md). 
 </p>
 
 ### January 2018
