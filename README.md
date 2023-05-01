@@ -108,6 +108,8 @@ https://user-images.githubusercontent.com/46757321/194868063-f188dee3-fed2-4298-
 
 #### Now the kit is partially industrialized, making it much easier to replicate the solution in other communities. Please [contact us](https://www.piscodeluz.org/?lang=en) if you would like to bring this benefit to other communities around the world. 
 
+<img src="https://github.com/pisco-de-luz/Social-Project/blob/e5e7ee809fcda38e14299939a162b6f703ab821d/images/Kit-v1.2.jpg" height="250"> <img src="https://github.com/pisco-de-luz/Social-Project/blob/a5cfd86f80983a89ab9765bcb74098270f77b1ae/images/Pisco-kit-boxes.jpg" height="250">
+
 ## Call to Action
 
 
