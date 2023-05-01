@@ -40,7 +40,7 @@ For this reason, we are always looking for partners who can help us by providing
 
 # International Partners
 
-<img src="https://github.com/pisco-de-luz/Social-Project/blob/c63b6aa2d6299f0993e5c5bc47563331b9637b0c/images/Partners.jpg" height="450">
+<img src="https://github.com/pisco-de-luz/Social-Project/blob/b964d8b785c569bfc74371bf73250c41389e314b/images/Int-Partners.jpg" height="450">
 
 # National Partners
 
