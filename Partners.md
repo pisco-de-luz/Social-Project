@@ -22,8 +22,20 @@ As it is virtually impossible to replace or repair any equipment in these remote
 
 For this reason, we are always looking for partners who can help us by providing the materials and services listed below;
 
-
-
+* Electronic components
+* Lithium batteries
+* Telephone cables and RJ11 plugs/adapters
+* Headlamps
+* Tools like RJ11 crimper, upholsterer's stapler, philips screwdriver, etc.
+* Good cameras for night photography
+* Drone
+* Audio Equipment for Interviews
+* Camping accessories
+* Car parts like Tires, Lighting kits, portable fuel tanks, etc.
+* Test and evaluation consulting for the robustness of our product
+* Electronic PCB manufacturing
+* PCB Assembly
+* Consulting in Software Reliability
 
 
 # International Partners
