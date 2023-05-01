@@ -40,5 +40,12 @@ For this reason, we are always looking for partners who can help us by providing
 
 # International Partners
 
+<img src="https://github.com/pisco-de-luz/Social-Project/blob/c63b6aa2d6299f0993e5c5bc47563331b9637b0c/images/Partners.jpg" height="450">
 
 # National Partners
+
+<img src="https://github.com/pisco-de-luz/Social-Project/blob/8b203f67ee6a5e11ac87c405f64e55360e526e03/images/SKA-logo.jpg" width="180">
+<img src="https://github.com/pisco-de-luz/Social-Project/blob/8b203f67ee6a5e11ac87c405f64e55360e526e03/images/PrimeBrasil-logo.png" width="180">
+<img src="https://github.com/pisco-de-luz/Social-Project/blob/8b203f67ee6a5e11ac87c405f64e55360e526e03/images/SousaeDiniz-logo.jpg" width="180">
+
+<img src="https://github.com/pisco-de-luz/Social-Project/blob/8b203f67ee6a5e11ac87c405f64e55360e526e03/images/CJ5-Logo.jpeg" height="180"> <img src="https://github.com/pisco-de-luz/Social-Project/blob/8b203f67ee6a5e11ac87c405f64e55360e526e03/images/JIPEClubeBrasilia-logo.png" height="180">
