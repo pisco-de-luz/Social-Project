@@ -45,13 +45,17 @@ For each level indicated in the middle (level 7 - 0), there is a group of lamps 
   
 <p>As we will see below, the system has several features designed with two main goals in mind. First, to save as much energy as possible. Second, to adapt the kit during the installation process to better suit the different types of environments and families that will be using it. 
 
-To achieve these two goals, it is clear that we need a mechanism to adjust the light intensity differently for each room. The simplest way to do this would be to use the existing PWM ports on the microcontroller, but unfortunately the ATmega328 has only 6 and 7 would be needed for our system. To work around this problem, a software version of the PWM engine was developed. 
+To achieve these two goals, it is clear that we need a mechanism to adjust the light intensity differently for each room. The simplest way to do this would be to use the existing PWM ports on the microcontroller, but unfortunately the ATmega328 has only 6 and 7 would be needed for our system. To work around this problem, a software version of the PWM engine was developed.</p>
+    
+<p>An important aspect we use to save energy is to take advantage of the fact that the brightness perception of the human eye is much more pronounced in the first lumens that the LED delivers. So our goal is not to try to provide 2000 to 5000 lumens per room (as we normally use in the city), but only something between 50 and 200 lumens.</p>
 
-An important aspect we use to save energy is to take advantage of the fact that the brightness perception of the human eye is much more pronounced in the first lumens that the LED delivers. So our goal is not to try to provide 2000 to 5000 lumens per room (as we normally use in the city), but only something between 50 and 200 lumens. 
+<img src="https://github.com/pisco-de-luz/Social-Project/blob/b7419de5b0606ab7a908e854ece61a2ae9773518/images/Normalized-human-visual-response.png" weight="220">
+                                                                                                                                                     
+<p>Another mechanism we are using to save energy is to **gradually reduce the brightness** of the room lighting over time. When exposed to darkness, our pupils dilate in a matter of seconds, our cones adapt in 10 minutes, and our rods adapt over a much longer period of time.</p>
 
-Another mechanism we are using to save energy is to gradually reduce the brightness of the room lighting over time. When exposed to darkness, our pupils dilate in a matter of seconds, our cones adapt in 10 minutes, and our rods adapt over a much longer period of time. 
+<img src="https://github.com/pisco-de-luz/Social-Project/blob/b7419de5b0606ab7a908e854ece61a2ae9773518/images/dark-adaptation-curve.gif" weight="220">
   
-In this way we are able to maintain the same level of perceived illumination using less energy. 
+<p>In this way we are able to maintain the same level of perceived illumination using less energy.
   
 </p>
 
