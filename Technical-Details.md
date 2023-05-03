@@ -64,4 +64,11 @@ As you can see in the graph below, the numbers 1 through 7 on the left represent
 
 This graph shows what will happen to the lighting in this room when the lights are turned on. The default setting for this channel is to automatically decrease the brightness every 10 minutes and automatically turn off after 1 hour. 
 
+Because it is very dark in these remote areas, our pupil is usually very dilated. So when we turn on a light, it comes on smoothly and minimizes the inconvenience of a sudden change. Each channel can be individually configured to turn on automatically when it gets dark. This is useful for the resident's orientation when he or she returns to the house after dark. 
+
 <img src="https://github.com/pisco-de-luz/Social-Project/blob/82df39c05221619d0ad39d98dbe062227e2facce/images/Turning-on-any-Light.png" width="600">
+
+In the example above, the light is set to turn on at level 7. This is also configurable on a per channel basis. Note that after 10 minutes, the light level drops to 6 and this reduction occurs every 10 minutes. After one hour, the lights will automatically turn off. 
+Note that whenever a light is turned off, even automatically, there is a period of about 20 seconds where it remains at a very low brightness level and starts a cycle of flashing until it is completely turned off. 
+
+These 20 seconds help the resident to move to another room or even to his bed, because in total darkness it is very difficult to move when it turns off immediately. And the number of flashes it gives before turning off indicates the battery level, with 7 flashes indicating that it is fully charged. 
