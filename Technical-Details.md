@@ -58,6 +58,10 @@ Another mechanism we are using to save energy is to **gradually reduce the brigh
   
 ### Features that have been created to make all this possible.
 
+Each channel of the kit, which is used to light each room independently, has some customizable settings.
 
+As you can see in the graph below, the numbers 1 through 7 on the left represent the brightness level over time. And the elapsed time is shown on the horizontal line at the bottom of the graph. 
+
+This graph shows what will happen to the lighting in this room when the lights are turned on. The default setting for this channel is to automatically decrease the brightness every 10 minutes and automatically turn off after 1 hour. 
 
 <img src="https://github.com/pisco-de-luz/Social-Project/blob/82df39c05221619d0ad39d98dbe062227e2facce/images/Turning-on-any-Light.png" width="600">
