@@ -52,14 +52,11 @@ To achieve these two goals, it is clear that we need a mechanism to adjust the l
 <img src="https://github.com/pisco-de-luz/Social-Project/blob/b7419de5b0606ab7a908e854ece61a2ae9773518/images/Normalized-human-visual-response.png" weight="220">
                                                                                                                                                      
 Another mechanism we are using to save energy is to **gradually reduce the brightness** of the room lighting over time. When exposed to darkness, our pupils dilate in a matter of seconds, our cones adapt in 10 minutes, and our rods adapt over a much longer period of time.
-<p> </p>
+<p> <p>In this way we are able to maintain the same level of perceived illumination using less energy.</p>
 
 <img src="https://github.com/pisco-de-luz/Social-Project/blob/b7419de5b0606ab7a908e854ece61a2ae9773518/images/dark-adaptation-curve.gif" weight="220">
   
-<p>In this way we are able to maintain the same level of perceived illumination using less energy.
-  
-</p>
-
+### Features that have been created to make all this possible.
 
 
 
