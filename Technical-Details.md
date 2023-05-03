@@ -20,9 +20,9 @@ Finally, a serial port has been added to collect statistics and perform small ca
 
 ## Automatic power management mode.
 
-<p>How can such a small battery light an entire house for several nights, even in the rainy season. 
+### How can such a small battery light an entire house for several nights, even in the rainy season. 
 
-The kit has an adaptive system that reduces or increases the intensity of the lighting according to the amount of energy in the battery.
+<p>The kit has an adaptive system that reduces or increases the intensity of the lighting according to the amount of energy in the battery.
 
 As you can see in the diagram below, on the left side there is an image of the battery showing the actual battery levels from 0% - 100%. In the middle of the diagram, there are colored bands (level 7 - 0) showing that our device is only using the 25% - 90% range of the total battery charge. The graph in blue shows the charge and discharge curve of the battery. Just 3 hours of strong sunlight is enough to fully charge the battery.
 
@@ -39,15 +39,19 @@ approximately 500 charge and discharge cycles when fully charged and fully disch
 
 This restriction process is shown on the right side of the diagram, in the blue box.
 
-For each level indicated in the middle (level 7 - 0), there is a group of lamps signaling the restrictions in the rightmost frame. For example, when the battery level is 7, all 7 rooms can be lit at the same time, but only 3 rooms can use the maximum brightness (7), and the other rooms can only use the brightness (5). As the battery level decreases, these restrictions are adjusted. For example, when the battery reaches level 3, only one room can use brightness (6) and only 5 other rooms can use brightness (3).  This progressive system of restrictions minimizes battery depletion and ensures several nights of basic lighting. Even on rainy and cloudy days, the battery is partially charged and a family would hardly be left completely in the dark.
+For each level indicated in the middle (level 7 - 0), there is a group of lamps signaling the restrictions in the rightmost frame. For example, when the battery level is 7, all 7 rooms can be lit at the same time, but only 3 rooms can use the maximum brightness (7), and the other rooms can only use the brightness (5). As the battery level decreases, these restrictions are adjusted. For example, when the battery reaches level 3, only one room can use brightness (6) and only 5 other rooms can use brightness (3).  This progressive system of restrictions minimizes battery depletion and ensures several nights of basic lighting. Even on rainy and cloudy days, the battery is partially charged and a family would hardly be left completely in the dark.</p>
 
-As we will see below, the system has several features designed with two main goals in mind. First, to save as much energy as possible. Second, to adapt the kit during the installation process to better suit the different types of environments and families that will be using it. 
+### Other ways to save energy
+  
+<p>As we will see below, the system has several features designed with two main goals in mind. First, to save as much energy as possible. Second, to adapt the kit during the installation process to better suit the different types of environments and families that will be using it. 
 
 To achieve these two goals, it is clear that we need a mechanism to adjust the light intensity differently for each room. The simplest way to do this would be to use the existing PWM ports on the microcontroller, but unfortunately the ATmega328 has only 6 and 7 would be needed for our system. To work around this problem, a software version of the PWM engine was developed. 
 
-An important factor we use to save energy is to take advantage of the fact that the brightness perception of the human eye is much more pronounced in the first lumens that the LED delivers. So our goal is not to try to provide 2000 to 5000 lumens per room (as we normally use in the city), but only something between 50 and 200 lumens. 
+An important aspect we use to save energy is to take advantage of the fact that the brightness perception of the human eye is much more pronounced in the first lumens that the LED delivers. So our goal is not to try to provide 2000 to 5000 lumens per room (as we normally use in the city), but only something between 50 and 200 lumens. 
+
+Another mechanism we are using to save energy is to gradually reduce the brightness of the room lighting over time. When exposed to darkness, our pupils dilate in a matter of seconds, our cones adapt in 10 minutes, and our rods adapt over a much longer period of time. 
   
-When exposed to darkness, our pupils dilate in a matter of seconds, our cones adapt in 10 minutes, and our rods adapt over a much longer period of time.
+In this way we are able to maintain the same level of perceived illumination using less energy. 
   
 </p>
 
