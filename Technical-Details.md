@@ -77,13 +77,22 @@ These 20 seconds help the resident to move to another room or even to his bed, b
 <p>
 The cables are one of the most expensive parts of the system. Each channel uses one pair of wires for the switches and another pair of wires for the LED modules. In general, we use about 60 meters of 4-conductor cable per house. 
 
-Depending on the type of wire used, the cost of the entire system can be very high. We evaluated several alternatives based on cost, weight, robustness, and ease of connecting the cables to the various devices such as switches, LED modules, and main modules.
+
 
 Another important factor in cable selection is the type of topology used. Since the entire lighting system operates at a maximum voltage of 12V, and the battery and drivers for the LEDs are located in the central module, it was necessary to use a star topology.</p>
 
 <img src="https://github.com/pisco-de-luz/Social-Project/blob/50c5f9b00743de093748a7757f90fce52107ecf3/images/star-topology.jpg" width="100">
 
 <p> So we usually install the main module in the center of the house and run the cables from there to the rooms, interconnecting the necessary switches and LED modules. 
+
+Depending on the type of wire used, the cost of the entire system can be very high. We evaluated several alternatives based on cost, weight, robustness, and ease of connecting the cables to the various devices such as switches, LED modules, and main modules.
+  
+After testing several types of electrical and alarm cables available in Brazil, we found that none were adequate for our needs.
+
+Since the LED modules consume a few tens of milliamperes, we decided to open our options to other types of cables that contain 4 conductors (two pairs).
+
+When we started to evaluate the RJ11 cable, we saw that it would be the perfect cable. The cost is much lower than the others, the male and female connectors are very inexpensive, they are robust, have a double protective cover, and finally, with a single crimping tool you can assemble cables of any size you need. 
+  
 </p>
 
 <img src="https://github.com/pisco-de-luz/Social-Project/blob/adc07d1d3181ce736366b36c5657cda9cca52696/images/crimpar-cables.gif" width="300">
