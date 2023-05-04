@@ -49,12 +49,12 @@ To achieve these two goals, it is clear that we need a mechanism to adjust the l
     
 <p>An important aspect we use to save energy is to take advantage of the fact that the brightness perception of the human eye is much more pronounced in the first lumens that the LED delivers. So our goal is not to try to provide 2000 to 5000 lumens per room (as we normally use in the city), but only something between 50 and 200 lumens.</p>
 
-<img src="https://github.com/pisco-de-luz/Social-Project/blob/b7419de5b0606ab7a908e854ece61a2ae9773518/images/Normalized-human-visual-response.png" weight="220">
+<img src="https://github.com/pisco-de-luz/Social-Project/blob/b7419de5b0606ab7a908e854ece61a2ae9773518/images/Normalized-human-visual-response.png" width="300">
                                                                                                                                                      
 Another mechanism we are using to save energy is to **gradually reduce the brightness** of the room lighting over time. When exposed to darkness, our pupils dilate in a matter of seconds, our cones adapt in 10 minutes, and our rods adapt over a much longer period of time.
 <p> <p>In this way we are able to maintain the same level of perceived illumination using less energy.</p>
 
-<img src="https://github.com/pisco-de-luz/Social-Project/blob/b7419de5b0606ab7a908e854ece61a2ae9773518/images/dark-adaptation-curve.gif" weight="220">
+<img src="https://github.com/pisco-de-luz/Social-Project/blob/b7419de5b0606ab7a908e854ece61a2ae9773518/images/dark-adaptation-curve.gif" width="300">
   
 ### Features that have been created to make all this possible.
 
@@ -72,3 +72,21 @@ In the example above, the light is set to turn on at level 7. This is also confi
 Note that whenever a light is turned off, even automatically, there is a period of about 20 seconds where it remains at a very low brightness level and starts a cycle of flashing until it is completely turned off. 
 
 These 20 seconds help the resident to move to another room or even to his bed, because in total darkness it is very difficult to move when it turns off immediately. And the number of flashes it gives before turning off indicates the battery level, with 7 flashes indicating that it is fully charged. 
+
+## Cable System
+<p>
+The cables are one of the most expensive parts of the system. Each channel uses one pair of wires for the switches and another pair of wires for the LED modules. In general, we use about 60 meters of 4-conductor cable per house. 
+
+Depending on the type of wire used, the cost of the entire system can be very high. We evaluated several alternatives based on cost, weight, robustness, and ease of connecting the cables to the various devices such as switches, LED modules, and main modules.
+
+Another important factor in cable selection is the type of topology used. Since the entire lighting system operates at a maximum voltage of 12V, and the battery and drivers for the LEDs are located in the central module, it was necessary to use a star topology.</p>
+
+<img src="https://github.com/pisco-de-luz/Social-Project/blob/50c5f9b00743de093748a7757f90fce52107ecf3/images/star-topology.jpg" width="100">
+
+<p> So we usually install the main module in the center of the house and run the cables from there to the rooms, interconnecting the necessary switches and LED modules. 
+</p>
+
+<img src="https://github.com/pisco-de-luz/Social-Project/blob/adc07d1d3181ce736366b36c5657cda9cca52696/images/crimpar-cables.gif" width="300">
+
+
+
