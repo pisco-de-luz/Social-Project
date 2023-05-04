@@ -85,6 +85,8 @@ Another important factor in cable selection is the type of topology used. Since 
 
 <p> So we usually install the main module in the center of the house and run the cables from there to the rooms, interconnecting the necessary switches and LED modules. 
 
+### Choosing the right cable.
+  
 Depending on the type of wire used, the cost of the entire system can be very high. We evaluated several alternatives based on cost, weight, robustness, and ease of connecting the cables to the various devices such as switches, LED modules, and main modules.
   
 After testing several types of electrical and alarm cables available in Brazil, we found that none were adequate for our needs.
