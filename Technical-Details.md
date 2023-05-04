@@ -107,3 +107,11 @@ Below you can see that the main module has 7 RJ11 jacks, one for each channel (r
 
 <img src="https://github.com/pisco-de-luz/Social-Project/blob/c6ce6dea242d6489cb8f5b33b719f41825e8ce3f/images/LED-module.jpg" width="400"> <img src="https://github.com/pisco-de-luz/Social-Project/blob/c6ce6dea242d6489cb8f5b33b719f41825e8ce3f/images/Switch.jpg" height="150">
 
+<p>Using other RJ11 adapters well available in the market, you can distribute all the led modules and switches inside the rooms very easily.</p>
+
+<img src="https://github.com/pisco-de-luz/Social-Project/blob/cae38145da33baa057c32f72d04af0d11db7eabd/images/RJ11-join.jpg" height="150"> <img src="https://github.com/pisco-de-luz/Social-Project/blob/cae38145da33baa057c32f72d04af0d11db7eabd/images/Rj11-Y.jpg" height="150">
+
+<p>
+ 
+     
+
