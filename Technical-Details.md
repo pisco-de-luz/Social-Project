@@ -94,10 +94,16 @@ After testing several types of electrical and alarm cables available in Brazil, 
 Since the LED modules consume a few tens of milliamperes, we decided to open our options to other types of cables that contain 4 conductors (two pairs).
 
 When we started to evaluate the RJ11 cable, we saw that it would be the perfect cable. The cost is much lower than the others, the male and female connectors are very inexpensive, they are robust, have a double protective cover, and finally, with a single crimping tool you can assemble cables of any size you need. 
-  
+
+In the video below you can have a look at how easy the assembly of the cable is.
 </p>
+<img src="https://github.com/pisco-de-luz/Social-Project/blob/adc07d1d3181ce736366b36c5657cda9cca52696/images/crimpar-cables.gif" width="400">
 
-<img src="https://github.com/pisco-de-luz/Social-Project/blob/adc07d1d3181ce736366b36c5657cda9cca52696/images/crimpar-cables.gif" width="300">
+Below you can see that the main module has 7 RJ11 jacks, one for each channel (room). 
 
+<img src="https://github.com/pisco-de-luz/Social-Project/blob/c6ce6dea242d6489cb8f5b33b719f41825e8ce3f/images/Main-module.jpg" width="400">
 
+<p>You can also see that the LED modules have two connectors and the switches only one. </p>
+
+<img src="https://github.com/pisco-de-luz/Social-Project/blob/c6ce6dea242d6489cb8f5b33b719f41825e8ce3f/images/LED-module.jpg" width="400"> <img src="https://github.com/pisco-de-luz/Social-Project/blob/c6ce6dea242d6489cb8f5b33b719f41825e8ce3f/images/Switch.jpg" height="150">
 
