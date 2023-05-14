@@ -80,7 +80,7 @@ If you are a technical person and want to know more details about how this syste
 
 ### January 2018
 
-<p>In January, a national TV station contacted us. They wanted to do a story about the project.  Together with some of our friends we decided to give the project the name "Pisco de Luz". Until then, it was affectionately known in the community as André's Little Light. 
+<p>In January, a national TV station contacted us. They wanted to do a story about the project.  Together with some of our friends we decided to give the project the name "Pisco de Luz". Until then, it was affectionately known in the community as André's little light. 
 
 One friend designed the logo, another made t-shirts for us to wear during filming. Everyone helped in any way they could. 
 
