@@ -51,7 +51,7 @@ After this moment, seeing the transformation that this simple kit made in their 
 
 It is common during the rainy season from October to March that the rivers fill up and we have to camp on the road.</p>
 
-<img src="https://github.com/pisco-de-luz/Social-Project/blob/093caade2fa1f7299293a69cca3bebeabbb9ed6f/images/river-crossing.gif" height="220"> <img src="https://github.com/pisco-de-luz/Social-Project/blob/093caade2fa1f7299293a69cca3bebeabbb9ed6f/images/bridge-crossing.gif" height="220">
+<img src="https://github.com/pisco-de-luz/Social-Project/blob/093caade2fa1f7299293a69cca3bebeabbb9ed6f/images/river-crossing.gif" height="300"> <img src="https://github.com/pisco-de-luz/Social-Project/blob/093caade2fa1f7299293a69cca3bebeabbb9ed6f/images/bridge-crossing.gif" height="300">
 
 The intelligent system monitors many variables, such as the usage hours of illumination, the amount of solar radiation, the minimum and maximum voltage of the battery, etc., delivered through the serial RS232 port.</p>
 
