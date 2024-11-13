@@ -101,7 +101,8 @@ In the video below you can have a look at how easy the assembly of the cable is.
 
 Below you can see that the main module has 7 RJ11 jacks, one for each channel (room). 
 
-<img src="https://github.com/pisco-de-luz/Social-Project/blob/c6ce6dea242d6489cb8f5b33b719f41825e8ce3f/images/Main-module.jpg" width="400">
+<img src="https://github.com/pisco-de-luz/Social-Project/blob/f848280f27451839c56515e998a5c96520739bcd/images/Kit-v1.2_SMD_cirtuit.jpg" width="400"></p>
+<img src="https://github.com/pisco-de-luz/Social-Project/blob/c6ce6dea242d6489cb8f5b33b719f41825e8ce3f/images/Main-module.jpg" width="400"> 
 
 <p>You can also see that the LED modules have two connectors and the switches only one. </p>
 
